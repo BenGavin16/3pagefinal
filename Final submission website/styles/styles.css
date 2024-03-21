@@ -1,0 +1,111 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.logo img {
+    width: 110px; /* Adjust the width of the logo as needed */
+    height: auto;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.logo h1 {
+    display: inline;
+    vertical-align: middle;
+    margin: 0;
+}
+
+nav{
+    margin-top: 4%;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.promotional-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.poster img {
+    max-width: 70%;
+    height: auto;
+}
+
+.about-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center; /* Vertically center align content */
+}
+
+.about-image img {
+    max-width: 70%; /* Adjust the width as needed */
+    height: 60%;
+}
+
+
+/* Main content styles */
+main {
+    padding: 20px 0;
+}
+
+/* Main content styles */
+main {
+    padding: 20px 0;
+}
+
+/* Main content styles */
+main {
+    padding: 20px 0;
+}
+
+
+
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+h2 {
+    text-align: ;
+}
